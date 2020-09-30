@@ -24,6 +24,7 @@ Nuestra empresa esta conformada por el mas selecto talento y nos enorgullece con
 - **Medusas**
 - **Comandos Anfibios**
 - **Rescate Anfibio y Demoliciones Submarinas RADS**-
+- **Enfermeros de Combate**
 
 ## Nuestros Productos
 

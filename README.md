@@ -23,8 +23,7 @@ Nuestra empresa esta conformada por el mas selecto talento y nos enorgullece con
 - **Salto LIbre IAGA**
 - **Medusas**
 - **Comandos Anfibios**
-- **Comandos Urbanos**
-
+- **Rescate Anfibio y Demoliciones Submarinas RADS**-
 
 ## Nuestros Productos
 
